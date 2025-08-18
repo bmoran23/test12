@@ -23,6 +23,9 @@ while (true) {
 
 Instructions for step 2 of activity 1 here...
 
+```package
+neopixel=github:microsoft/pxt-neopixel
+```
 
 
 
