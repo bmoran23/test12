@@ -3,6 +3,10 @@
 ```blocks
 // @highlight
 basic.showNumber(5)
+
+// @hide
+basic.showNumber(8)
+
 while (true) {
    let x = input.acceleration(Dimension.X) / 2;
    let y = input.acceleration(Dimension.Y) / 2;
