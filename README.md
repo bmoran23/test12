@@ -1,7 +1,11 @@
 
 > Open this page at [https://bmoran23.github.io/test12/](https://bmoran23.github.io/test12/)
 
-## Use as Extension
+## Links
+
+[ReadMe](https://bmoran23.github.io/test12/)
+
+[Lesson1](https://bmoran23.github.io/test12/lesson1)
 
 This repository can be added as an **extension** in MakeCode.
 
