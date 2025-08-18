@@ -1,1 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_forever" id="D3U2#KLgrFzZAG0s90gc" x="0" y="0"></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_forever" id="D3U2#KLgrFzZAG0s90gc" x="0" y="0"><statement name="HANDLER"><block type="device_pause" id="!UT87VP(Q1@h3n5uw%H*"><value name="pause"><shadow type="timePicker" id="~/Y%7^dI6:MI$V-H8{^f"><field name="ms">100</field></shadow></value></block></statement></block></xml>
