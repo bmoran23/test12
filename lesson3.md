@@ -2,21 +2,7 @@
 
 Instructions for step 1 of activity 1 here...
 
-
-```blocks
-let strip = neopixel.create(DigitalPin.P0, 24, NeoPixelMode.RGB_RGB)
-while (true) {
-   let x = input.acceleration(Dimension.X) / 2;
-   let y = input.acceleration(Dimension.Y) / 2;
-   let z = input.acceleration(Dimension.Z) / 2;
-   strip.shift(1);
-   strip.setPixelColor(0, neopixel.rgb(x, y, -z));
-   strip.show();
-   strip.shift(1);
-   basic.pause(100);
-
-```
-
+![Agent building a tower](/Clubhouse_RoboPet1 8x6.jpeg)
 
 ## Step 2
 
