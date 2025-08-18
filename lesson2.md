@@ -12,6 +12,7 @@ while (true) {
    strip.shift(1);
    strip.setPixelColor(0, neopixel.rgb(x, y, -z));
    strip.show();
+   strip.shift(1);
    basic.pause(100);
 
 ```
