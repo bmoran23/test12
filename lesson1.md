@@ -1,6 +1,8 @@
 ## Step 1
 
 ```blocks
+// @highlight
+basic.showNumber(5)
 while (true) {
    let x = input.acceleration(Dimension.X) / 2;
    let y = input.acceleration(Dimension.Y) / 2;
