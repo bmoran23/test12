@@ -1,6 +1,6 @@
 ## Step 1
 
-Instructions for step 1 of activity 1 here...
+Instructions for step 1 of activity 1 here...picture
 
 ![Agent building a tower](/Clubhouse_RoboPet1 8x6.jpeg)
 
