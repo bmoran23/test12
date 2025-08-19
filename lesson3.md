@@ -6,7 +6,7 @@ Instructions for step 1 of activity 1 here...picture
 
 ## Step 2
 
-![Agent building a tower](/image/GeekServoSmallKart.png)
+![Agent building a tower](/image/NeoPixalCoding.mp4)
 
 ## Step 3
 
