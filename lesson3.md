@@ -5,8 +5,10 @@ Instructions for step 1 of activity 1 here...picture
 ![Agent building a tower](/Clubhouse_RoboPet1 8x6.jpeg)
 
 ## Step 2
+How to you add a link? 
 
-![Agent building a tower](/image/NeoPixalCoding.mp4)
+
+[Video](https://studio.youtube.com/video/0tpOJQNxNQY/)
 
 ## Step 3
 
@@ -14,18 +16,15 @@ Instructions for step 1 of activity 1 here...picture
 Instructions for step 2 of activity 1 here...
 
 ```blocks
-let strip = neopixel.create(DigitalPin.P0, 24, NeoPixelMode.RGB_RGB)
-while (true) {
-   let x = input.acceleration(Dimension.X) / 2;
-   let y = input.acceleration(Dimension.Y) / 2;
-   let z = input.acceleration(Dimension.Z) / 2;
-   strip.shift(1);
-   strip.setPixelColor(0, neopixel.rgb(x, y, -z));
-   strip.show();
-   strip.shift(1);
-   basic.pause(100);
-
+forever(function() {
+    strip.shift(1);
+    strip.setPixelColor(0, neopixel.rgb(x, y, -z));
+    strip.show();
+    basic.showNumber(input.temperature())
+    basic.pause(1000)
+})
 ```
+
 
 
 ```package
