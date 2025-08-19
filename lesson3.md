@@ -16,13 +16,9 @@ How to you add a link?
 Instructions for step 2 of activity 1 here...
 
 ```blocks
-basic.forever
-    strip.shift(1);
-    strip.setPixelColor(0, neopixel.rgb(x, y, -z));
-    strip.show();
-    basic.showNumber(input.temperature())
-    basic.pause(1000)
-
+basic.forever(function () {
+    basic.showNumber(5)
+})
 ```
 
 
