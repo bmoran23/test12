@@ -4,9 +4,11 @@ Instructions for step 1 of activity 1 here...picture
 
 ![Agent building a tower](/Clubhouse_RoboPet1 8x6.jpeg)
 
+## Step 2
+
 ![Agent building a tower](/image/GeekServoSmallKart.png)
 
-## Step 2
+## Step 3
 
 
 Instructions for step 2 of activity 1 here...
