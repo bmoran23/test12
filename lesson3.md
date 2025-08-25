@@ -21,8 +21,6 @@ basic.forever(function () {
 })
 ```
 
-
-
 ```package
 neopixel=github:microsoft/pxt-neopixel
 ```
