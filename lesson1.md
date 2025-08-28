@@ -16,4 +16,7 @@ while (true) {
    strip.shift(1);
    basic.pause(100);
 ```
+
+![some blocks](/testimage-github.png)
+
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
